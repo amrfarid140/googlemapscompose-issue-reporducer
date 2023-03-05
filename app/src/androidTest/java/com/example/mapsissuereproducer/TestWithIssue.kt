@@ -12,7 +12,7 @@ import org.junit.Rule
  *
  * See [testing documentation](http://d.android.com/tools/testing).
  */
-class ExampleInstrumentedTest {
+class TestWithIssue {
 
     @Rule
     @JvmField
